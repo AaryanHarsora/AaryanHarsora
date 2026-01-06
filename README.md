@@ -14,15 +14,12 @@ I am a student with a strong interest in data analytics, financial analysis, and
 
 At present, I am working on a Market Risk Analytics project that focuses on analyzing exposure, assessing performance risk, and developing data-driven forecasting models.
 
-🛠️ What I Work On
+📌 What I Work On
 
-Analytical solutions designed to uncover patterns and trends in data
-
-Automated reporting workflows that improve reliability and reduce manual effort
-
-Modular and scalable codebases suitable for real-world use cases
-
-Data visualizations that support clearer interpretation and better decisions
+- Analytical solutions designed to uncover patterns and trends in data
+- Automated reporting workflows that improve reliability and reduce manual effort
+- Modular and scalable codebases suitable for real-world use cases
+- Data visualizations that support clearer interpretation and better decisions
 
 ---
 
