@@ -10,10 +10,19 @@
 
 ## 🌟 About Me
 
-I'm a tech enthusiast passionate about **data analytics, system design, and software engineering**.  
-I enjoy working at the intersection of **logic, numbers, and real-world problem solving** — turning raw data into insights and building software that is **efficient, structured, and scalable**.
+I am a student with a strong interest in data analytics, financial analysis, and computing systems. I enjoy applying quantitative thinking and logical problem-solving to convert complex data into actionable insights and to design software that is well-structured, efficient, and practical.
 
-📊 Currently working on **data-driven projects**, analytics pipelines, and performance-focused applications.
+At present, I am working on a Market Risk Analytics project that focuses on analyzing exposure, assessing performance risk, and developing data-driven forecasting models.
+
+🛠️ What I Work On
+
+Analytical solutions designed to uncover patterns and trends in data
+
+Automated reporting workflows that improve reliability and reduce manual effort
+
+Modular and scalable codebases suitable for real-world use cases
+
+Data visualizations that support clearer interpretation and better decisions
 
 ---
 
@@ -50,10 +59,7 @@ I enjoy working at the intersection of **logic, numbers, and real-world problem 
 
 
 ### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel)
 
@@ -63,15 +69,6 @@ I enjoy working at the intersection of **logic, numbers, and real-world problem 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
-</p>
 
 ---
 
