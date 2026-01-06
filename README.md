@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Aaryan Harsora  
+# 👋 Hi,I'm Aaryan Harsora  
 
 ### 🚀 Tech Enthusiast | Data • Systems • Software  
 
@@ -36,6 +36,7 @@ I enjoy working at the intersection of **logic, numbers, and real-world problem 
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
