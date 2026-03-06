@@ -2,7 +2,7 @@
 
 # Hi, I'm AARYAN HARSORA 👋
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F711E9&center=true&vCenter=true&width=435&lines=Welcome+to+my+Digital+Space+✨;Data+Science+Student;Explainable+AI+Researcher;Learning+Distrubuted+Systems;Let's+Collaborate!+🤝" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F711E9&center=true&vCenter=true&width=435&lines=Welcome+to+my+Digital+Space+✨;CSEDS+Student;Let's+Collaborate!+🤝" alt="Typing SVG" />
 </p>
 ### 🚀 Tech Enthusiast | Data • Systems • Software  
 
