@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Hi,I'm Aaryan Harsora  
+# Hi, I'm AARYAN HARSORA 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&width=435&lines=CSE+Data+Science+Student;Building+Explainable+AI+Models;Linux+Enthusiast;Python+Developer)
 
 ### 🚀 Tech Enthusiast | Data • Systems • Software  
 
