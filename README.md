@@ -85,64 +85,6 @@ At present, I am working on a Market Risk Analytics project that focuses on anal
 
 ✨ *Always learning. Always building.* ✨
 
-</div>
 
-<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=soft&color=auto&height=200&section=header&text=Aaryan_OS&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Algorithm%20Architecture&descAlignY=62&descFontSize=20" />
-</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=User+Detected:+Aaryan+Harsora;System+Status:+Online;Select+an+app+below...;Initializing+Interface...)
-
-<br>
-
-### 📱 System Interface
-
-<details>
-<summary><b> 📂 🧠 Data_Science_Core.app </b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Optimized-007AFF?style=for-the-badge" /> 
-  <br><br>
-  <i>"Initializing Neural Network..."</i><br>
-  Welcome, Aaryan. Currently specializing in <b>Explainable AI</b> and <b>Distributed Systems</b> at MPSTME.
-  <br><br>
-  <b>Active Projects:</b><br>
-  - <a href="#">Explainable Credit Default Risk Prediction</a><br>
-  - <a href="#">Advanced Algorithm Complexity Analysis</a>
-</p>
-</details>
-
-<details>
-<summary><b> 📂 🏁 Sim_Racing_Pro.app </b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Hardware-Fanatec_Ready-FF2D55?style=for-the-badge" /> 
-  <br><br>
-  <i>"Engine Started..."</i><br>
-  High-speed data processing meets high-speed racing. Check out my custom steering wheel hardware project.
-</p>
-</details>
-
-<br>
-
-### 📊 Live Performance Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=false&border_radius=20&border_color=007AFF" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&border_radius=20&border_color=5856D6" width="300" />
-</p>
-
-<br>
-
-### 🌐 Connect with Aaryan
-<p align="center">
-  <a href="mailto:aaryanharsora@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aaryan-harsora/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-</div>
