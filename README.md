@@ -10,7 +10,9 @@
 </div>
 
 ---
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=soft&color=auto&height=200&section=header&text=DATA+SCIENCE+CORE&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Predicting+the+Future+with+Code&descAlignY=62&descFontSize=20" />
+</p>
 ## 🌟 About Me
 
 I am a student with a strong interest in data analytics, financial analysis, and computing systems. I enjoy applying quantitative thinking and logical problem-solving to convert complex data into actionable insights and to design software that is well-structured, efficient, and practical.
