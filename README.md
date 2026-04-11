@@ -1,5 +1,5 @@
 <div align="center">
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi,%20 I'm%20AARYAN%20HARSORA&fontSize=35&fontColor=ffffff&animation=fadeIn" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=for-the-badge&logo=pandas" /> <img src="https://img.shields.io/badge/NumPy-Numerical-orange?style=for-the-badge&logo=numpy" /> <img src="https://img.shields.io/badge/Scikit--Learn-ML-yellow?style=for-the-badge&logo=scikit-learn" /> <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" /> </p>
 # Hi, I'm AARYAN HARSORA 👋
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F711E9&center=true&vCenter=true&width=435&lines=Welcome+to+my+Digital+Space+✨;CSEDS+Student;Let's+Collaborate!+🤝" alt="Typing SVG" />
