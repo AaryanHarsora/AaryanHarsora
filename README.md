@@ -1,5 +1,5 @@
 <div align="center">
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Data%20Analysis%20with%20Python&fontSize=35&fontColor=ffffff&animation=fadeIn" /> </p>
 # Hi, I'm AARYAN HARSORA 👋
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F711E9&center=true&vCenter=true&width=435&lines=Welcome+to+my+Digital+Space+✨;CSEDS+Student;Let's+Collaborate!+🤝" alt="Typing SVG" />
