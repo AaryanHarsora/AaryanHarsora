@@ -73,6 +73,14 @@ At present, I am working on a Market Risk Analytics project that focuses on anal
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaryanHarsora&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AaryanHarsora&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanHarsora&layout=compact&theme=tokyonight)
+
 
 ## 🚧 Currently Exploring
 - System Design fundamentals  
