@@ -79,7 +79,7 @@ At present, I am working on a Market Risk Analytics project that focuses on anal
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AaryanHarsora&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanHarsora&layout=compact&theme=tokyonight)
+
 
 
 ## 🚧 Currently Exploring
